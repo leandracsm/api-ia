@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-dotenv
+supabase
+requests
+rembg
+onnxruntime
+python-multipart
+pillow
+numpy
