@@ -1,5 +1,4 @@
 
-
 from fastapi import FastAPI
 from supabase import create_client
 from fastapi.middleware.cors import CORSMiddleware
